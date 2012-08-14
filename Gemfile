@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.7'
 gem 'bootstrap-sass', '2.0.0'
-gem 'pg', '0.12.2'
+gem 'pg'
 gem 'bcrypt-ruby', '3.0.1'
 # Bundle edge Rails instead:
 # gem 'rails', :git => 'git://github.com/rails/rails.git'
